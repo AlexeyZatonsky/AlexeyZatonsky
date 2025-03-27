@@ -2,20 +2,19 @@
   <tr>
     <td>
 
-      <h3>📊 Языковая статистика</h3>
-
+  <h3>📊 Языковая статистика</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyZatonsky&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter%20notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая%20статистика" />
 
-    </td>
-    <td>
+  </td>
+  <td>
 
-      <h3>🛠️ Стек технологий</h3>
+  <h3>🛠️ Стек технологий</h3>
+    <img src="https://skillicons.dev/icons?i=ts,react,fastapi,python,cs,unity,git,docker,postgres,vite" />
 
-      <img src="https://skillicons.dev/icons?i=ts,react,fastapi,python,cs,unity,git,docker,postgres,vite" />
-
-    </td>
+  </td>
   </tr>
 </table>
+
 
 
 <!--
