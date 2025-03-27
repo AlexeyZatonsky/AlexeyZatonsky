@@ -9,7 +9,7 @@
   <td>
 
   <h3>🛠️ Стек технологий</h3>
-    <img src="https://skillicons.dev/icons?i=ts,react,fastapi,python,cs,unity,git,docker,postgres,vite" />
+    <img src="https://skillicons.dev/icons?i=fastapi,python,cs,unity,postgres,vite,ts,react" />
 
   </td>
   </tr>
