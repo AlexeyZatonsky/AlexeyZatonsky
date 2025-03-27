@@ -15,6 +15,7 @@
   </tr>
 </table>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyZatonsky&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false)
 
 
 <!--
