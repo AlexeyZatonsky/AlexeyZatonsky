@@ -1,4 +1,5 @@
-## Hi there 👋
+## 📊 Мои основные языки
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
 ?username=AlexeyZatonsky
 &langs_count=10
@@ -7,6 +8,7 @@
 &include_private=true
 &hide=html,css,shell,makefile,jupyter%20notebook,dockerfile,scilab,java,javascript,c,c++
 &custom_title=Языковая%20статистика)
+
 <!--
 **AlexeyZatonsky/AlexeyZatonsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
