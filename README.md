@@ -1,6 +1,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyZatonsky&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter%20notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая%20статистика)
 
 
+![My Skills](https://skillicons.dev/icons?i=ts,react,fastapi,python,cs,unity,git,docker,postgres,vite)
+
+
 
 <!--
 **AlexeyZatonsky/AlexeyZatonsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
